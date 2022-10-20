@@ -167,6 +167,10 @@
          "key": "lang.packs",
          "value": "de,en"
       },
+     {
+         "key": "troubleshootingModeEnabled",
+         "value": "true"
+      },
       {
          "key": "endpoint.hac.platform.init.disabled",
          "value": "true"
