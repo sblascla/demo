@@ -126,7 +126,7 @@
                 
                 {
                      "name": "yacceleratorstorefront",
-                     "contextPath": "yacceleratorstorefront"
+                     "contextPath": "/yacceleratorstorefront"
                  },
 {
  "name": "smartedit",
