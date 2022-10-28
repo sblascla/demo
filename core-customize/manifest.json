@@ -14,6 +14,7 @@
         "cmswebservices",
         "permissionswebservices",
         "previewwebservices",
+        "assistedservicewebservices",
         "mediaweb"
     ],
     "useConfig": {
