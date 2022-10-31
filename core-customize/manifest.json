@@ -69,11 +69,6 @@
             "template": "yacceleratorstorefront"
         },
         {
-             "addon": "assistedservicestorefront",
-            "storefront": "yacceleratorstorefront",
-              "template": "yacceleratorstorefront"
-         },
-        {
             "addon": "textfieldconfiguratortemplateaddon",
             "storefront": "yacceleratorstorefront",
             "template": "yacceleratorstorefront"
@@ -414,6 +409,10 @@
                 {
                     "name": "cmssmartedit",
                     "contextPath": "/cmssmartedit"
+                },
+                {
+                    "name": "assistedservicewebservices",
+                    "contextPath": "/assistedservicewebservices"
                 },
                 {
                     "name": "smarteditwebservices",
