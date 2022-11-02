@@ -15,7 +15,8 @@
         "permissionswebservices",
         "previewwebservices",
         "assistedservicewebservices",
-        "mediaweb"
+        "mediaweb",
+        "pcmbackofficesamplesaddon"
     ],
     "useConfig": {
         "properties": [
