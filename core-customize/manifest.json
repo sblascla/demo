@@ -16,7 +16,13 @@
         "previewwebservices",
         "assistedservicewebservices",
         "mediaweb",
-        "pcmbackofficesamplesaddon"
+        "pcmbackofficesamplesaddon",
+        "adaptivesearchsolr",
+        "adaptivesearchbackoffice",
+        "adaptivesearchsamplesaddon",
+        "adaptivesearchwebservices",
+        "solrfacetsearchbackoffice",
+        "solrserver"
     ],
     "useConfig": {
         "properties": [
